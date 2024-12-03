@@ -1,0 +1,11 @@
+*.pt
+*.zip
+*.log
+__pycache__/abstract_state.cpython-311.pyc
+__pycache__/comp_helper.cpython-311.pyc
+__pycache__/eval_utils.cpython-311.pyc
+__pycache__/utils.cpython-311.pyc
+openAI_anallysis/__pycache__/GPT3_utils.cpython-311.pyc
+code_analysis/__pycache__/base.cpython-311.pyc
+code_analysis/__pycache__/human_eval.cpython-311.pyc
+code_analysis/__pycache__/mbpp.cpython-311.pyc
