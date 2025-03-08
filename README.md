@@ -1,11 +1,12 @@
 # LLM_analysis
 
-This repo contains code that are split into two parts: OpenAI related model analysis and open-source LLM analysis. Under the root directory, there are also two files `code_result_analysis.py` and `nlp_result_analysis.py` that can help with the analysis of the results. Besides these two files:
+This repo contains code that is split into two parts: OpenAI-related model analysis and open-source LLM analysis. Under the root directory, there are also two files `code_result_analysis.py` and `nlp_result_analysis.py` that can help with the analysis of the results. Besides these two files:
 
 `eval_utils.py` provides evaluation utils for both parts.
 
-`code_analysis` provides necessary utilitis from https://github.com/bigcode-project/bigcode-evaluation-harness to evaluate code generation tasks.
+`code_analysis` provides necessary utilities from https://github.com/bigcode-project/bigcode-evaluation-harness to evaluate code generation tasks.
 
+More results and experiment details are provided on our website: https://sites.google.com/view/llm-uncertainty 
 
 ## OpenAI related model analysis
 
