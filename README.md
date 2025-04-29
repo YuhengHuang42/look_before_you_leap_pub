@@ -24,3 +24,23 @@ Under the directory, `code_evaluation.py` and `llm_evaluation.py` are used to ev
 
 Please refer to each file to check the meaning of each parameter.
 
+
+
+## Citation
+
+If you find the related resources and code useful, please cite our paper at TSE, thank you!
+
+```
+@ARTICLE{huang2025lbyp,
+  author={Huang, Yuheng and Song, Jiayang and Wang, Zhijie and Zhao, Shengming and Chen, Huaming and Juefei-Xu, Felix and Ma, Lei},
+  journal={IEEE Transactions on Software Engineering}, 
+  title={Look Before You Leap: An Exploratory Study of Uncertainty Analysis for Large Language Models}, 
+  year={2025},
+  volume={51},
+  number={2},
+  pages={413-429},
+  keywords={Uncertainty;Estimation;Codes;Hidden Markov models;Adaptation models;Artificial intelligence;Training;Risk management;Electronic mail;Transformers;Large language models;deep neural networks;uncertainty estimation;software reliability},
+  doi={10.1109/TSE.2024.3519464}
+  }
+```
+
